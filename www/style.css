@@ -1,11 +1,11 @@
 .hidemessage {
   display: none;
-  background-color: red;
-  color: white;
-  padding: 10px;
-  margin-top: 10px;
 }
 
 .showmessage {
   display: block;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
 }
